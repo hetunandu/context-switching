@@ -1,0 +1,5 @@
+{
+  "find": "s",
+  "limit": 10,
+  "batchSize": 10
+}
