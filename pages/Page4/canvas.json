@@ -29,14 +29,12 @@
         "layoutOnLoadActions": [],
         "validOnPageLoadActions": true,
         "id": "Page4",
-        "deleted": false,
-        "policies": [],
-        "userPermissions": []
+        "deleted": false
       }
     ],
     "userPermissions": [],
     "policies": []
   },
-  "deleted": false,
-  "gitSyncId": "634902ae07bb483342666135_64059241e96950767baf9021"
+  "gitSyncId": "634902ae07bb483342666135_64059241e96950767baf9021",
+  "deleted": false
 }
