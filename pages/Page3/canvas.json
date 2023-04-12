@@ -1232,14 +1232,12 @@
         "layoutOnLoadActionErrors": [],
         "validOnPageLoadActions": true,
         "id": "Page3",
-        "deleted": false,
-        "policies": [],
-        "userPermissions": []
+        "deleted": false
       }
     ],
     "userPermissions": [],
     "policies": []
   },
-  "deleted": false,
-  "gitSyncId": "634902ae07bb483342666135_64059135e96950767baf9018"
+  "gitSyncId": "634902ae07bb483342666135_64059135e96950767baf9018",
+  "deleted": false
 }

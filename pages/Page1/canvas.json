@@ -21,7 +21,7 @@
           "parentRowSpace": 1,
           "type": "CANVAS_WIDGET",
           "canExtend": true,
-          "version": 77,
+          "version": 78,
           "minHeight": 1292,
           "dynamicTriggerPathList": [],
           "parentColumnSpace": 1,
@@ -3077,8 +3077,8 @@
               "confirmBeforeExecute": false,
               "pluginType": "API",
               "jsonPathKeys": [
-                "appsmith.URL.queryParams.key",
-                "appsmith.URL.fullPath"
+                "appsmith.URL.fullPath",
+                "appsmith.URL.queryParams.key"
               ],
               "timeoutInMillisecond": 10000
             }
@@ -3087,14 +3087,12 @@
         "layoutOnLoadActionErrors": [],
         "validOnPageLoadActions": true,
         "id": "Page1",
-        "deleted": false,
-        "policies": [],
-        "userPermissions": []
+        "deleted": false
       }
     ],
     "userPermissions": [],
     "policies": []
   },
-  "deleted": false,
-  "gitSyncId": "630714bdb3409d60b4bf4ab5_630714bdb3409d60b4bf4ab7"
+  "gitSyncId": "630714bdb3409d60b4bf4ab5_630714bdb3409d60b4bf4ab7",
+  "deleted": false
 }
