@@ -473,7 +473,7 @@
                         "click",
                         "submit"
                       ],
-                      "topRow": 2,
+                      "topRow": 0,
                       "bottomRow": 17,
                       "parentRowSpace": 10,
                       "type": "BUTTON_WIDGET",
@@ -498,7 +498,7 @@
                       "isDisabled": false,
                       "key": "410bc4mdu1",
                       "isDeprecated": false,
-                      "rightColumn": 22,
+                      "rightColumn": 35,
                       "isDefaultClickDisabled": true,
                       "widgetId": "ouqxt9gfdn",
                       "isVisible": true,
@@ -1053,12 +1053,9 @@
                         },
                         {
                           "key": "borderRadius"
-                        },
-                        {
-                          "key": "text"
                         }
                       ],
-                      "text": "{{Image12.image}}",
+                      "text": "Test",
                       "isDisabled": false,
                       "key": "8lqhx6g0lt",
                       "isDeprecated": false,
@@ -3077,8 +3074,8 @@
               "confirmBeforeExecute": false,
               "pluginType": "API",
               "jsonPathKeys": [
-                "appsmith.URL.fullPath",
-                "appsmith.URL.queryParams.key"
+                "appsmith.URL.queryParams.key",
+                "appsmith.URL.fullPath"
               ],
               "timeoutInMillisecond": 10000
             }
@@ -3087,12 +3084,14 @@
         "layoutOnLoadActionErrors": [],
         "validOnPageLoadActions": true,
         "id": "Page1",
-        "deleted": false
+        "deleted": false,
+        "policies": [],
+        "userPermissions": []
       }
     ],
     "userPermissions": [],
     "policies": []
   },
-  "gitSyncId": "630714bdb3409d60b4bf4ab5_630714bdb3409d60b4bf4ab7",
-  "deleted": false
+  "deleted": false,
+  "gitSyncId": "630714bdb3409d60b4bf4ab5_630714bdb3409d60b4bf4ab7"
 }

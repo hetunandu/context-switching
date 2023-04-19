@@ -3,6 +3,10 @@ export default {
 		return "abc"
 	},
 	backTo: () => {
-		return JSObject1.myVar2
+		return qwee12344.myVar2
 	}
 }
+
+
+
+

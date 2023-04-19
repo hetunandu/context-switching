@@ -76,7 +76,7 @@
     "policies": [],
     "userPermissions": []
   },
-  "gitSyncId": "630714bdb3409d60b4bf4ab5_63105a16e84aab6f3c7d16ba",
   "id": "Page1_Rest_Api_1",
-  "deleted": false
+  "deleted": false,
+  "gitSyncId": "630714bdb3409d60b4bf4ab5_63105a16e84aab6f3c7d16ba"
 }

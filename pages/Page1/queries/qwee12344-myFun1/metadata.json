@@ -2,8 +2,8 @@
   "pluginType": "JS",
   "pluginId": "js-plugin",
   "unpublishedAction": {
-    "name": "myFun9",
-    "fullyQualifiedName": "JSObject1.myFun9",
+    "name": "myFun1",
+    "fullyQualifiedName": "qwee12344.myFun1",
     "datasource": {
       "name": "UNUSED_DATASOURCE",
       "pluginId": "js-plugin",
@@ -14,7 +14,7 @@
       "userPermissions": []
     },
     "pageId": "Page1",
-    "collectionId": "Page1_JSObject1",
+    "collectionId": "Page1_qwee12344",
     "actionConfiguration": {
       "timeoutInMillisecond": 10000,
       "paginationType": "NONE",
@@ -24,6 +24,7 @@
       "isAsync": false
     },
     "executeOnLoad": false,
+    "clientSideExecution": true,
     "dynamicBindingPathList": [
       {
         "key": "body"
@@ -37,7 +38,7 @@
     "policies": [],
     "userPermissions": []
   },
-  "gitSyncId": "634902ae07bb483342666135_63a135c13464243a552947c8",
-  "id": "Page1_JSObject1.myFun9",
-  "deleted": false
+  "id": "Page1_qwee12344.myFun1",
+  "deleted": false,
+  "gitSyncId": "630714bdb3409d60b4bf4ab5_6319706b93a914550ebf3cbe"
 }

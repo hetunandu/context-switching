@@ -14,7 +14,7 @@ export default {
 	},
 	
 	myFun3: () => {
-		return this.myFun9();
+		return 1;
 	},
 	
 	myFun4: () => {
@@ -34,7 +34,7 @@ export default {
 	},
 	
 	myFun9: () => {
-		return this.myFun1();
+		
 	}
 }
 

@@ -33,12 +33,12 @@
     "isValid": true,
     "invalids": [],
     "messages": [],
-    "userSetOnLoad": false,
+    "userSetOnLoad": true,
     "confirmBeforeExecute": false,
     "policies": [],
     "userPermissions": []
   },
-  "gitSyncId": "634902ae07bb483342666135_6360e3686d5190057b5f5eab",
   "id": "Page1_JSObject3.myFun2",
-  "deleted": false
+  "deleted": false,
+  "gitSyncId": "634902ae07bb483342666135_6360e3686d5190057b5f5eab"
 }

@@ -1,1 +1,1 @@
-{{JSObject1.JSObject2}}
+123
