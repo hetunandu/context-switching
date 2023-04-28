@@ -3,9 +3,17 @@ export default {
 		return "abc"
 	},
 	backTo: () => {
-		return qwee12344.myVar2
+		return qwee12344.myar2
 	}
 }
+
+
+
+
+
+
+
+
 
 
 
