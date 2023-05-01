@@ -38,7 +38,7 @@
     "policies": [],
     "userPermissions": []
   },
-  "gitSyncId": "630714bdb3409d60b4bf4ab5_6319753a8eed172d1cad67d5",
   "id": "Page1_JSObject2.myFun1",
-  "deleted": false
+  "deleted": false,
+  "gitSyncId": "630714bdb3409d60b4bf4ab5_6319753a8eed172d1cad67d5"
 }
