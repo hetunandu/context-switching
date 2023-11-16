@@ -1,0 +1,58 @@
+{
+    "widgetName": "CategorySlider3",
+    "displayName": "Category Slider",
+    "iconSVG": "/static/media/icon.cbd0db7a0bd317a6e4cbbd72417f8dee.svg",
+    "labelText": "Size",
+    "searchTags": ["range"],
+    "topRow": 9,
+    "bottomRow": 17,
+    "parentRowSpace": 10,
+    "labelWidth": 5,
+    "type": "CATEGORY_SLIDER_WIDGET",
+    "hideCard": false,
+    "defaultOptionValue": "md",
+    "animateLoading": true,
+    "parentColumnSpace": 5.8046875,
+    "leftColumn": 20,
+    "dynamicBindingPathList": [{"key": "accentColor"}],
+    "shouldTruncate": false,
+    "labelPosition": "Left",
+    "options": [
+        {
+            "label": "Extra Small",
+            "value": "xs"
+        },
+        {
+            "label": "Small",
+            "value": "sm"
+        },
+        {
+            "label": "Medium",
+            "value": "md"
+        },
+        {
+            "label": "Large",
+            "value": "lg"
+        },
+        {
+            "label": "Extra Large",
+            "value": "xl"
+        }
+    ],
+    "isDisabled": false,
+    "key": "avf9jn28we",
+    "labelTextSize": "0.875rem",
+    "isDeprecated": false,
+    "rightColumn": 60,
+    "widgetId": "wwiyfir1vi",
+    "accentColor": "{{appsmith.theme.colors.primaryColor}}",
+    "isVisible": true,
+    "sliderSize": "m",
+    "shouldScroll": false,
+    "version": 1,
+    "parentId": "y21okw48dd",
+    "labelAlignment": "left",
+    "renderMode": "CANVAS",
+    "isLoading": false,
+    "showMarksLabel": true
+}

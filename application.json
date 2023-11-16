@@ -5,15 +5,7 @@
       "isDefault": true
     },
     {
-      "id": "Page2",
-      "isDefault": false
-    },
-    {
-      "id": "Page3",
-      "isDefault": false
-    },
-    {
-      "id": "Page4",
+      "id": "ParentPage",
       "isDefault": false
     }
   ],
@@ -21,7 +13,6 @@
   "appIsExample": false,
   "unreadCommentThreads": 0,
   "unpublishedApplicationDetail": {},
-  "publishedApplicationDetail": {},
   "color": "#FFDEDE",
   "icon": "book",
   "unpublishedAppLayout": {
@@ -30,7 +21,11 @@
   "publishedAppLayout": {
     "type": "FLUID"
   },
-  "unpublishedCustomJSLibs": [],
+  "unpublishedCustomJSLibs": [
+    {
+      "uidString": "xmlParser_https://cdnjs.cloudflare.com/ajax/libs/fast-xml-parser/3.17.5/parser.min.js"
+    }
+  ],
   "publishedCustomJSLibs": [],
   "evaluationVersion": 2,
   "applicationVersion": 2,
