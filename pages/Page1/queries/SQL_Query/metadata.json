@@ -37,7 +37,7 @@
     "policies": [],
     "userPermissions": []
   },
-  "gitSyncId": "630714bdb3409d60b4bf4ab5_632c2609ec371b142c33d14f",
   "id": "Page1_SQL_Query",
-  "deleted": false
+  "deleted": false,
+  "gitSyncId": "630714bdb3409d60b4bf4ab5_632c2609ec371b142c33d14f"
 }

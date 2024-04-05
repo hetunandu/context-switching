@@ -19,22 +19,23 @@
           "parentRowSpace": 1,
           "type": "CANVAS_WIDGET",
           "canExtend": true,
-          "version": 77,
+          "version": 89,
           "minHeight": 700,
           "parentColumnSpace": 1,
           "dynamicBindingPathList": [],
-          "leftColumn": 0,
-          "children": []
+          "leftColumn": 0
         },
         "layoutOnLoadActions": [],
         "validOnPageLoadActions": true,
         "id": "Page4",
-        "deleted": false
+        "deleted": false,
+        "policies": [],
+        "userPermissions": []
       }
     ],
     "userPermissions": [],
     "policies": []
   },
-  "gitSyncId": "634902ae07bb483342666135_64059241e96950767baf9021",
-  "deleted": false
+  "deleted": false,
+  "gitSyncId": "634902ae07bb483342666135_64059241e96950767baf9021"
 }
