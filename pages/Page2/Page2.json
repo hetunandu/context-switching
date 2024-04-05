@@ -33,8 +33,8 @@
               "confirmBeforeExecute": false,
               "pluginType": "API",
               "jsonPathKeys": [
-                "appsmith.URL.fullPath",
-                "appsmith.URL.queryParams.key"
+                "appsmith.URL.queryParams.key",
+                "appsmith.URL.fullPath"
               ],
               "timeoutInMillisecond": 10000
             }

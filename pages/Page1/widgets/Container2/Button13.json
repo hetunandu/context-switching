@@ -16,7 +16,7 @@
     "hideCard": false,
     "animateLoading": true,
     "parentColumnSpace": 13.6875,
-    "leftColumn": 33,
+    "leftColumn": 29,
     "dynamicBindingPathList": [
         {"key": "buttonColor"},
         {"key": "borderRadius"}

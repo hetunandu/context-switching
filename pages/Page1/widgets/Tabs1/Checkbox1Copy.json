@@ -4,7 +4,7 @@
     "iconSVG": "/static/media/icon.aaab032b43383e4fa53ffc0ef40c90ef.svg",
     "searchTags": ["boolean"],
     "topRow": 6,
-    "bottomRow": 14,
+    "bottomRow": 10,
     "parentRowSpace": 10,
     "type": "CHECKBOX_WIDGET",
     "alignWidget": "LEFT",
@@ -15,8 +15,7 @@
     "leftColumn": 9,
     "dynamicBindingPathList": [
         {"key": "accentColor"},
-        {"key": "borderRadius"},
-        {"key": "label"}
+        {"key": "borderRadius"}
     ],
     "labelPosition": "Left",
     "isDisabled": false,
@@ -29,7 +28,7 @@
     "accentColor": "{{appsmith.theme.colors.primaryColor}}",
     "minWidth": 450,
     "isVisible": true,
-    "label": "{{Api1.data.next}}",
+    "label": "",
     "version": 1,
     "parentId": "atp4qp02sz",
     "renderMode": "CANVAS",

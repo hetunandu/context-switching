@@ -20,8 +20,7 @@
         {"key": "primaryColumns.email.computedValue"},
         {"key": "primaryColumns.address.computedValue"},
         {"key": "primaryColumns.createdAt.computedValue"},
-        {"key": "primaryColumns.updatedAt.computedValue"},
-        {"key": "tableData"}
+        {"key": "primaryColumns.updatedAt.computedValue"}
     ],
     "leftColumn": 8,
     "delimiter": ",",
@@ -352,7 +351,7 @@
     "textSize": "0.875rem",
     "widgetId": "e7jnw2a2u6",
     "enableServerSideFiltering": false,
-    "tableData": "{{Api1.data.users}}",
+    "tableData": "",
     "label": "Data",
     "searchKey": "",
     "parentId": "0",

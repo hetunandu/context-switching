@@ -60,13 +60,13 @@
     "invalids": [],
     "messages": [],
     "jsonPathKeys": [
-      "S3_Query",
-      "S3_Query.data"
+      "S3_Query"
     ],
     "userSetOnLoad": true,
     "confirmBeforeExecute": false,
     "policies": [],
-    "userPermissions": []
+    "userPermissions": [],
+    "createdAt": "2022-10-14T06:33:18Z"
   },
   "id": "Page1_Graphql_Query",
   "deleted": false,

@@ -1,5 +1,6 @@
 {
     "widgetName": "CategorySlider2",
+    "dynamicPropertyPathList": [{"key": "options"}],
     "displayName": "Category Slider",
     "iconSVG": "/static/media/icon.cbd0db7a0bd317a6e4cbbd72417f8dee.svg",
     "labelText": "Size",
@@ -10,35 +11,15 @@
     "labelWidth": 5,
     "type": "CATEGORY_SLIDER_WIDGET",
     "hideCard": false,
-    "defaultOptionValue": "md",
+    "defaultOptionValue": "m",
     "animateLoading": true,
     "parentColumnSpace": 16.3125,
+    "dynamicTriggerPathList": [],
     "leftColumn": 8,
     "dynamicBindingPathList": [{"key": "accentColor"}],
     "shouldTruncate": false,
     "labelPosition": "Left",
-    "options": [
-        {
-            "label": "Extra Small",
-            "value": "xs"
-        },
-        {
-            "label": "Small",
-            "value": "sm"
-        },
-        {
-            "label": "Medium",
-            "value": "md"
-        },
-        {
-            "label": "Large",
-            "value": "lg"
-        },
-        {
-            "label": "Extra Large",
-            "value": "xl"
-        }
-    ],
+    "options": "[\n  {\n    \"label\": \"Extra Small\",\n    \"value\": \"xs\"\n  },\n  {\n    \"label\": \"Small\",\n    \"value\": \"sm\"\n  },\n  {\n    \"label\": \"Medium\",\n    \"value\": \"md\"\n  },\n  {\n    \"label\": \"Large\",\n    \"value\": \"lg\"\n  },\n  {\n    \"label\": \"Extra Large\",\n    \"value\": \"xl\"\n  }\n]",
     "isDisabled": false,
     "key": "ya013mlvz5",
     "labelTextSize": "0.875rem",
