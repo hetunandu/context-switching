@@ -1,38 +1,42 @@
 {
-    "boxShadow": "none",
-    "widgetName": "IconButton2",
-    "buttonColor": "{{appsmith.theme.colors.primaryColor}}",
-    "displayName": "Icon Button",
-    "iconSVG": "/static/media/icon.1a0c634ac75f9fa6b6ae7a8df882a3ba.svg",
-    "searchTags": [
-        "click",
-        "submit"
-    ],
-    "topRow": 37,
-    "bottomRow": 41,
-    "parentRowSpace": 10,
-    "type": "ICON_BUTTON_WIDGET",
-    "hideCard": false,
-    "animateLoading": true,
-    "parentColumnSpace": 16.3125,
-    "leftColumn": 12,
-    "dynamicBindingPathList": [
-        {"key": "buttonColor"},
-        {"key": "borderRadius"}
-    ],
-    "isDisabled": false,
-    "key": "2btsq1qtuq",
-    "isDeprecated": false,
-    "rightColumn": 16,
-    "iconName": "plus",
-    "widgetId": "odl6j7go5p",
-    "isVisible": true,
-    "version": 1,
-    "parentId": "0jlvsyap4c",
-    "renderMode": "CANVAS",
-    "isLoading": false,
-    "originalTopRow": 42,
-    "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
-    "originalBottomRow": 46,
-    "buttonVariant": "PRIMARY"
+  "animateLoading": true,
+  "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+  "bottomRow": 41,
+  "boxShadow": "none",
+  "buttonColor": "{{appsmith.theme.colors.primaryColor}}",
+  "buttonVariant": "PRIMARY",
+  "displayName": "Icon Button",
+  "dynamicBindingPathList": [
+    {
+      "key": "buttonColor"
+    },
+    {
+      "key": "borderRadius"
+    }
+  ],
+  "hideCard": false,
+  "iconName": "plus",
+  "iconSVG": "/static/media/icon.1a0c634ac75f9fa6b6ae7a8df882a3ba.svg",
+  "isDeprecated": false,
+  "isDisabled": false,
+  "isLoading": false,
+  "isVisible": true,
+  "key": "2btsq1qtuq",
+  "leftColumn": 12,
+  "originalBottomRow": 46,
+  "originalTopRow": 42,
+  "parentColumnSpace": 16.3125,
+  "parentId": "0jlvsyap4c",
+  "parentRowSpace": 10,
+  "renderMode": "CANVAS",
+  "rightColumn": 16,
+  "searchTags": [
+    "click",
+    "submit"
+  ],
+  "topRow": 37,
+  "type": "ICON_BUTTON_WIDGET",
+  "version": 1,
+  "widgetId": "odl6j7go5p",
+  "widgetName": "IconButton2"
 }

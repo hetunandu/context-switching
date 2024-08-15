@@ -1,37 +1,41 @@
 {
-    "boxShadow": "none",
-    "widgetName": "AudioRecorder1",
-    "displayName": "Audio Recorder",
-    "iconSVG": "/static/media/icon.3cb03cd8ed8464c5725a5d89a8fa563f.svg",
-    "searchTags": [
-        "sound recorder",
-        "voice recorder"
-    ],
-    "topRow": 24,
-    "bottomRow": 31,
-    "parentRowSpace": 10,
-    "type": "AUDIO_RECORDER_WIDGET",
-    "hideCard": false,
-    "animateLoading": true,
-    "parentColumnSpace": 16.3125,
-    "leftColumn": 4,
-    "dynamicBindingPathList": [
-        {"key": "accentColor"},
-        {"key": "borderRadius"}
-    ],
-    "isDisabled": false,
-    "key": "wj7f2rzgbv",
-    "isDeprecated": false,
-    "rightColumn": 24,
-    "widgetId": "51ysd5ar8a",
-    "accentColor": "{{appsmith.theme.colors.primaryColor}}",
-    "isVisible": true,
-    "version": 1,
-    "parentId": "0jlvsyap4c",
-    "renderMode": "CANVAS",
-    "isLoading": false,
-    "originalTopRow": 18,
-    "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
-    "originalBottomRow": 22,
-    "iconColor": "white"
+  "accentColor": "{{appsmith.theme.colors.primaryColor}}",
+  "animateLoading": true,
+  "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+  "bottomRow": 31,
+  "boxShadow": "none",
+  "displayName": "Audio Recorder",
+  "dynamicBindingPathList": [
+    {
+      "key": "accentColor"
+    },
+    {
+      "key": "borderRadius"
+    }
+  ],
+  "hideCard": false,
+  "iconColor": "white",
+  "iconSVG": "/static/media/icon.3cb03cd8ed8464c5725a5d89a8fa563f.svg",
+  "isDeprecated": false,
+  "isDisabled": false,
+  "isLoading": false,
+  "isVisible": true,
+  "key": "wj7f2rzgbv",
+  "leftColumn": 4,
+  "originalBottomRow": 22,
+  "originalTopRow": 18,
+  "parentColumnSpace": 16.3125,
+  "parentId": "0jlvsyap4c",
+  "parentRowSpace": 10,
+  "renderMode": "CANVAS",
+  "rightColumn": 24,
+  "searchTags": [
+    "sound recorder",
+    "voice recorder"
+  ],
+  "topRow": 24,
+  "type": "AUDIO_RECORDER_WIDGET",
+  "version": 1,
+  "widgetId": "51ysd5ar8a",
+  "widgetName": "AudioRecorder1"
 }

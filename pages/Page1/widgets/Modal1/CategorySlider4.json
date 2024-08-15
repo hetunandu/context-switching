@@ -1,58 +1,64 @@
 {
-    "widgetName": "CategorySlider4",
-    "displayName": "Category Slider",
-    "iconSVG": "/static/media/icon.cbd0db7a0bd317a6e4cbbd72417f8dee.svg",
-    "labelText": "Size",
-    "searchTags": ["range"],
-    "topRow": 6,
-    "bottomRow": 16,
-    "parentRowSpace": 10,
-    "labelWidth": 5,
-    "type": "CATEGORY_SLIDER_WIDGET",
-    "hideCard": false,
-    "defaultOptionValue": "md",
-    "animateLoading": true,
-    "parentColumnSpace": 6.9375,
-    "leftColumn": 0,
-    "dynamicBindingPathList": [{"key": "accentColor"}],
-    "shouldTruncate": false,
-    "labelPosition": "Left",
-    "options": [
-        {
-            "label": "Extra Small",
-            "value": "xs"
-        },
-        {
-            "label": "Small",
-            "value": "sm"
-        },
-        {
-            "label": "Medium",
-            "value": "md"
-        },
-        {
-            "label": "Large",
-            "value": "lg"
-        },
-        {
-            "label": "Extra Large",
-            "value": "xl"
-        }
-    ],
-    "isDisabled": false,
-    "key": "mzv1twzuh2",
-    "labelTextSize": "0.875rem",
-    "isDeprecated": false,
-    "rightColumn": 62,
-    "widgetId": "hr9hdk9vlg",
-    "accentColor": "{{appsmith.theme.colors.primaryColor}}",
-    "isVisible": true,
-    "sliderSize": "m",
-    "shouldScroll": false,
-    "version": 1,
-    "parentId": "0wyq6intky",
-    "labelAlignment": "left",
-    "renderMode": "CANVAS",
-    "isLoading": false,
-    "showMarksLabel": true
+  "accentColor": "{{appsmith.theme.colors.primaryColor}}",
+  "animateLoading": true,
+  "bottomRow": 16,
+  "defaultOptionValue": "md",
+  "displayName": "Category Slider",
+  "dynamicBindingPathList": [
+    {
+      "key": "accentColor"
+    }
+  ],
+  "hideCard": false,
+  "iconSVG": "/static/media/icon.cbd0db7a0bd317a6e4cbbd72417f8dee.svg",
+  "isDeprecated": false,
+  "isDisabled": false,
+  "isLoading": false,
+  "isVisible": true,
+  "key": "mzv1twzuh2",
+  "labelAlignment": "left",
+  "labelPosition": "Left",
+  "labelText": "Size",
+  "labelTextSize": "0.875rem",
+  "labelWidth": 5,
+  "leftColumn": 0,
+  "options": [
+    {
+      "label": "Extra Small",
+      "value": "xs"
+    },
+    {
+      "label": "Small",
+      "value": "sm"
+    },
+    {
+      "label": "Medium",
+      "value": "md"
+    },
+    {
+      "label": "Large",
+      "value": "lg"
+    },
+    {
+      "label": "Extra Large",
+      "value": "xl"
+    }
+  ],
+  "parentColumnSpace": 6.9375,
+  "parentId": "0wyq6intky",
+  "parentRowSpace": 10,
+  "renderMode": "CANVAS",
+  "rightColumn": 62,
+  "searchTags": [
+    "range"
+  ],
+  "shouldScroll": false,
+  "shouldTruncate": false,
+  "showMarksLabel": true,
+  "sliderSize": "m",
+  "topRow": 6,
+  "type": "CATEGORY_SLIDER_WIDGET",
+  "version": 1,
+  "widgetId": "hr9hdk9vlg",
+  "widgetName": "CategorySlider4"
 }

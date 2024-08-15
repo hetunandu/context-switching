@@ -1,4 +1,19 @@
 {
+  "appIsExample": false,
+  "appLayout": {
+    "type": "FLUID"
+  },
+  "applicationDetail": {
+    "themeSetting": {
+      "appMaxWidth": "LARGE",
+      "density": 1.0,
+      "sizing": 1.0
+    }
+  },
+  "applicationVersion": 2,
+  "color": "#FFDEDE",
+  "evaluationVersion": 2,
+  "icon": "book",
   "pages": [
     {
       "id": "Page1",
@@ -17,22 +32,14 @@
       "isDefault": false
     }
   ],
-  "viewMode": false,
-  "appIsExample": false,
-  "unreadCommentThreads": 0,
-  "unpublishedApplicationDetail": {},
-  "color": "#FFDEDE",
-  "icon": "book",
   "unpublishedAppLayout": {
     "type": "FLUID"
   },
-  "publishedAppLayout": {
-    "type": "FLUID"
-  },
-  "unpublishedCustomJSLibs": [],
-  "publishedCustomJSLibs": [],
-  "evaluationVersion": 2,
-  "applicationVersion": 2,
-  "isManualUpdate": false,
-  "deleted": false
+  "unpublishedApplicationDetail": {
+    "themeSetting": {
+      "appMaxWidth": "LARGE",
+      "density": 1.0,
+      "sizing": 1.0
+    }
+  }
 }

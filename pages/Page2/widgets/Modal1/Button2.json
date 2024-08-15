@@ -1,42 +1,46 @@
 {
-    "resetFormOnClick": false,
-    "boxShadow": "none",
-    "widgetName": "Button2",
-    "buttonColor": "{{appsmith.theme.colors.primaryColor}}",
-    "displayName": "Button",
-    "iconSVG": "/static/media/icon.cca026338f1c8eb6df8ba03d084c2fca.svg",
-    "searchTags": [
-        "click",
-        "submit"
-    ],
-    "topRow": 50,
-    "bottomRow": 54,
-    "type": "BUTTON_WIDGET",
-    "hideCard": false,
-    "animateLoading": true,
-    "leftColumn": 47,
-    "dynamicBindingPathList": [
-        {"key": "buttonColor"},
-        {"key": "borderRadius"}
-    ],
-    "text": "Confirm",
-    "isDisabled": false,
-    "key": "u9jzx6w6cr",
-    "isDeprecated": false,
-    "rightColumn": 63,
-    "isDefaultClickDisabled": true,
-    "widgetId": "wtk7c9ug7y",
-    "buttonStyle": "PRIMARY_BUTTON",
-    "minWidth": 120,
-    "isVisible": true,
-    "recaptchaType": "V3",
-    "version": 1,
-    "parentId": "klt0qlz50k",
-    "renderMode": "CANVAS",
-    "isLoading": false,
-    "responsiveBehavior": "hug",
-    "disabledWhenInvalid": false,
-    "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
-    "buttonVariant": "PRIMARY",
-    "placement": "CENTER"
+  "animateLoading": true,
+  "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+  "bottomRow": 54,
+  "boxShadow": "none",
+  "buttonColor": "{{appsmith.theme.colors.primaryColor}}",
+  "buttonStyle": "PRIMARY_BUTTON",
+  "buttonVariant": "PRIMARY",
+  "disabledWhenInvalid": false,
+  "displayName": "Button",
+  "dynamicBindingPathList": [
+    {
+      "key": "buttonColor"
+    },
+    {
+      "key": "borderRadius"
+    }
+  ],
+  "hideCard": false,
+  "iconSVG": "/static/media/icon.cca026338f1c8eb6df8ba03d084c2fca.svg",
+  "isDefaultClickDisabled": true,
+  "isDeprecated": false,
+  "isDisabled": false,
+  "isLoading": false,
+  "isVisible": true,
+  "key": "u9jzx6w6cr",
+  "leftColumn": 47,
+  "minWidth": 120,
+  "parentId": "klt0qlz50k",
+  "placement": "CENTER",
+  "recaptchaType": "V3",
+  "renderMode": "CANVAS",
+  "resetFormOnClick": false,
+  "responsiveBehavior": "hug",
+  "rightColumn": 63,
+  "searchTags": [
+    "click",
+    "submit"
+  ],
+  "text": "Confirm",
+  "topRow": 50,
+  "type": "BUTTON_WIDGET",
+  "version": 1,
+  "widgetId": "wtk7c9ug7y",
+  "widgetName": "Button2"
 }
