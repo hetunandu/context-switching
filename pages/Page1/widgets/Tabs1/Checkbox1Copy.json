@@ -3,7 +3,7 @@
   "alignWidget": "LEFT",
   "animateLoading": true,
   "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
-  "bottomRow": 14,
+  "bottomRow": 10,
   "defaultCheckedState": true,
   "displayName": "Checkbox",
   "dynamicBindingPathList": [
@@ -12,9 +12,6 @@
     },
     {
       "key": "borderRadius"
-    },
-    {
-      "key": "label"
     }
   ],
   "dynamicHeight": "AUTO_HEIGHT",
@@ -27,7 +24,7 @@
   "isRequired": false,
   "isVisible": true,
   "key": "1jaa88y4ad",
-  "label": "{{Api1.data.next}}",
+  "label": "",
   "labelPosition": "Left",
   "leftColumn": 9,
   "maxDynamicHeight": 9000,

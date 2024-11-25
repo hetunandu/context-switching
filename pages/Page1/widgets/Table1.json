@@ -90,9 +90,6 @@
     },
     {
       "key": "primaryColumns.updatedAt.computedValue"
-    },
-    {
-      "key": "tableData"
     }
   ],
   "dynamicPropertyPathList": [
@@ -385,7 +382,7 @@
   "renderMode": "CANVAS",
   "rightColumn": 42,
   "searchKey": "",
-  "tableData": "{{Api1.data.users}}",
+  "tableData": "",
   "textSize": "0.875rem",
   "topRow": 125,
   "totalRecordsCount": 0,

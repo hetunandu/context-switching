@@ -1,12 +1,11 @@
 {
-  "gitSyncId": "634902ae07bb483342666135_64217292a6f12a132b424fd4",
+  "gitSyncId": "634902ae07bb483342666135_e578a67f-9cb4-4abe-bb6a-6421e7b7efb7",
   "id": "Page1_JSObject4.myFun1",
   "pluginId": "js-plugin",
   "pluginType": "JS",
   "unpublishedAction": {
     "actionConfiguration": {
       "encodeParamsToggle": true,
-      "isAsync": false,
       "jsArguments": [],
       "paginationType": "NONE",
       "timeoutInMillisecond": 10000

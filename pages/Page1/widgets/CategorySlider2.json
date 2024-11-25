@@ -2,13 +2,19 @@
   "accentColor": "{{appsmith.theme.colors.primaryColor}}",
   "animateLoading": true,
   "bottomRow": 64,
-  "defaultOptionValue": "md",
+  "defaultOptionValue": "m",
   "displayName": "Category Slider",
   "dynamicBindingPathList": [
     {
       "key": "accentColor"
     }
   ],
+  "dynamicPropertyPathList": [
+    {
+      "key": "options"
+    }
+  ],
+  "dynamicTriggerPathList": [],
   "hideCard": false,
   "iconSVG": "/static/media/icon.cbd0db7a0bd317a6e4cbbd72417f8dee.svg",
   "isDeprecated": false,
@@ -22,28 +28,7 @@
   "labelTextSize": "0.875rem",
   "labelWidth": 5,
   "leftColumn": 8,
-  "options": [
-    {
-      "label": "Extra Small",
-      "value": "xs"
-    },
-    {
-      "label": "Small",
-      "value": "sm"
-    },
-    {
-      "label": "Medium",
-      "value": "md"
-    },
-    {
-      "label": "Large",
-      "value": "lg"
-    },
-    {
-      "label": "Extra Large",
-      "value": "xl"
-    }
-  ],
+  "options": "[\n  {\n    \"label\": \"Extra Small\",\n    \"value\": \"xs\"\n  },\n  {\n    \"label\": \"Small\",\n    \"value\": \"sm\"\n  },\n  {\n    \"label\": \"Medium\",\n    \"value\": \"md\"\n  },\n  {\n    \"label\": \"Large\",\n    \"value\": \"lg\"\n  },\n  {\n    \"label\": \"Extra Large\",\n    \"value\": \"xl\"\n  }\n]",
   "originalBottomRow": 64,
   "originalTopRow": 56,
   "parentColumnSpace": 16.3125,
